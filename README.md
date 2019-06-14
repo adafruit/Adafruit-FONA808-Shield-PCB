@@ -9,11 +9,11 @@ PCB files for the Adafruit FONA808 Shield. Format is EagleCAD schematic and boar
 ### DESCRIPTION
 Cellular + GPS tracking, all in one, for your Arduino? Oh yes! Introducing Adafruit FONA 808 GSM + GPS Shield, an all-in-one cellular phone module with that lets you add location-tracking, voice, text, SMS and data to your project, in Arduino shield format for easy use.
 
-If you want a version without GPS, check out the FONA 800 Shield here.
+If you want a version without GPS, check out the FONA 800 Shield [here](https://www.adafruit.com/product/2468).
 
-If you don't need the shield format, we also have this is a petite breakout here.
+If you don't need the shield format, we also have this is a petite breakout [here](https://www.adafruit.com/product/2542).
 
-If you just want a plain FONA, click here.
+If you just want a plain FONA, [click here](https://www.adafruit.com/product/1946).
 
 This shield fits right over your Arduino or compatible. At the heart is a powerful GSM cellular module (we use the latest SIM808) with integrated GPS. This module can do just about everything
 
